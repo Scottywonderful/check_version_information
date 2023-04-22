@@ -1,5 +1,5 @@
 {
 	"name": "Scottywonderful's Showroom (swl-showroom)",
-	"version": "0.12",
-	"changelog": "Updated the version checker script to display a successful check"
+	"version": "0.14",
+	"changelog": "Updated fxmanifest with important info"
 }
