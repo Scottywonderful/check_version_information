@@ -1,5 +1,5 @@
 {
-	"name": "Scottywonderful's Showroom (swl-showroom)",
-	"version": "0.28",
-	"changelog": "Error in version checker fixed."
+	"name": "Scottywonderful's Showroom",
+	"version": "0.32",
+	"changelog": "Changed successful version check message"
 }
