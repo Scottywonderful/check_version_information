@@ -1,5 +1,5 @@
 {
 	"name": "Scottywonderful's Showroom (swl-showroom)",
-	"version": "0.20",
-	"changelog": "Removed folders from check Git, Updated Error Message and made new file in main github"
+	"version": "0.25",
+	"changelog": "Updated version check code to allow for pre-release version notices."
 }
