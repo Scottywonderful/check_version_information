@@ -1,5 +1,5 @@
 {
 	"name": "Scottywonderful's Showroom",
-	"version": "0.32",
-	"changelog": "Changed successful version check message"
+	"version": "0.35",
+	"changelog": "Changed successful version check message and split Name and Resource Name to be seperate."
 }
