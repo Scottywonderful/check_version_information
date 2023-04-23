@@ -1,5 +1,6 @@
 {
 	"name": "Scottywonderful's Showroom",
-	"version": "0.35",
-	"changelog": "Changed successful version check message and split Name and Resource Name to be seperate."
+	"resource": "swl-showroom",
+	"version": "0.40",
+	"changelog": "Added resource name in version files"
 }
