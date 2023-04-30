@@ -1,6 +1,6 @@
 {
 	"name": "Scottywonderful's Showroom",
 	"resource": "swl-showroom",
-	"version": "0.55",
-	"changelog": "Text Colour update."
+	"version": "0.60",
+	"changelog": "Inserted colours into the version messages"
 }
